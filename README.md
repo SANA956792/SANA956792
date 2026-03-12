@@ -88,6 +88,18 @@
 **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Flask, Jupyter
 
 ---
+## 📈💰Investment Behavior Analysis Dashboard | Power BI
+
+- Analyzed 12K+ investor records in Power BI to identify trends in investment avenues such as Equity, Mutual Funds, Fixed Deposits, and Government Bonds.
+
+- Built an interactive dashboard with KPI metrics and visualizations to analyze investor demographics, savings objectives, risk preferences, and investment duration patterns
+
+---
+## 🌬️☀️ Solar and Wind Energy Production Analysis | Microsoft Excel 
+- Analyzed solar and wind energy production data using Microsoft Excel, performing data cleaning, pivot table
+analysis, and trend analysis to identify renewable energy generation patterns
+- Built interactive dashboards and visualizations using charts and KPI metrics to present insights and support
+data-driven decision making.
 ## 🔥 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SANA956792&theme=dark)
